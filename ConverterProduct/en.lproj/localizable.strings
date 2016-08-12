@@ -1,0 +1,10 @@
+/* 
+  localizable.strings
+  ConverterProduct
+
+  Created by Omikron on 11.08.16.
+  Copyright © 2016 Omikron-Inc. All rights reserved.
+*/
+
+"Error" = "Error";
+"OK" = "OK";
